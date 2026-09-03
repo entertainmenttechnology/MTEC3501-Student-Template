@@ -26,6 +26,7 @@ The class repository contains course materials, assignments, shared activities, 
 - [`docs/04_production/`](docs/04_production/README.md) — build, programming, fabrication, testing, integration notes
 - [`docs/05_presentation/`](docs/05_presentation/README.md) — presentations, demos, portfolio material
 - [`docs/06_assessment/`](docs/06_assessment/README.md) — self-assessment, critique, feedback, reflection
+- [`project-log.md`](project-log.md) — chronological record of discoveries, decisions, problems, and next steps
 - [`prototype/`](prototype/README.md) — the working Proof of Concept and implementation material
 - [`assets/`](assets/README.md) — supporting media (diagrams, images, audio, video, data)
 - [`deliverables/`](deliverables/README.md) — selected material prepared for formal submission/presentation

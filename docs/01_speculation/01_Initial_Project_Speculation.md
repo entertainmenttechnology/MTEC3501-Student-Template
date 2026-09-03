@@ -88,7 +88,7 @@ You may discuss personal experience, prior coursework, creative or technical int
 
 ## 5 Week 1 Checkpoint
 
-Before Week 2, reread this document and confirm that it represents your current thinking.
+Before Week 2, reread this document and confirm that it represents your current thinking. During Week 1, complete this document on your repository's `main` branch, then commit and push it. You will begin working in a development branch during Week 2.
 
 - [ ] I completed the Initial Project Concept section.
 - [ ] I completed the SRDMPA response.
